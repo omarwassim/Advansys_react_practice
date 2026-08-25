@@ -1,7 +1,7 @@
 
-<p align="center">
+
   <img src="<img width="1917" height="852" alt="web" src="https://github.com/user-attachments/assets/98af88c2-c292-4d10-8a3c-c7b1a82a153e" />
-</p>
+
 
 <h1 align="center">My Items — React CRUD App</h1>
 
