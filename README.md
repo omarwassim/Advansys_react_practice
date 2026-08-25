@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./web.png" />
+  <img src="../public/web.png" />
 " alt="App Preview" width="700"/>
 </p>
 
